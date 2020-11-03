@@ -1,0 +1,26 @@
+{
+  "name": "onlineshoestorev2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i5x64BIT/onlineshoestoreV2.git"
+  },
+  "author": "Tomer Vainshtein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/i5x64BIT/onlineshoestoreV2/issues"
+  },
+  "homepage": "https://github.com/i5x64BIT/onlineshoestoreV2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.11"
+  },
+  "devDependencies": {
+    "jest": "^26.6.1"
+  }
+}
